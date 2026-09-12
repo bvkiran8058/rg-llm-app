@@ -1,2 +1,9 @@
 fastapi
 uvicorn[standard]
+httpx
+slowapi
+python-jose[cryptography]
+prometheus-fastapi-instrumentator
+azure-identity
+azure-keyvault-secrets
+pydantic-settings
